@@ -90,3 +90,8 @@ return (
 - **Resultado**: Exibe qual combustível é mais vantajoso.
 
 ---
+
+
+
+https://github.com/user-attachments/assets/94c36a10-69b2-4507-9433-019e2c0dce3f
+
